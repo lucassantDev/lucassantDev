@@ -5,7 +5,7 @@ Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sis
 
 ---
 
-## 🧑‍💻Tecnologia
+## 🧑‍💻Tecnologias
 
 <img 
     align="left" 

@@ -5,7 +5,7 @@ Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sis
 
 ---
 
-**`Tecnologias`**
+## 🧑‍💻Tecnologia
 
 <img 
     align="left" 
@@ -49,7 +49,7 @@ Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sis
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br>
+<br> <br>
 
 ---
 
@@ -63,8 +63,6 @@ Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sis
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lucassantdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    
----
 
 <img 
       align="left" 

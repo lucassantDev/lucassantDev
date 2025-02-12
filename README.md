@@ -1,5 +1,5 @@
 ## 💻  Lucas Ferreira de Santana
-**`Desenvolvedor front-end`**
+**`Desenvolvedor frontend`**
 
 Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sistemas. Comecei a me interessar por programação no ano de 2023, quando entrei para o SENAI e iniciei de fato, meus estudos nessa área! Atualmente, tenho buscado melhorar cada vez mais minhas habilidades visando conseguir minha primeira oportunidade como desenvolvedor.
 
@@ -20,15 +20,6 @@ Me chamo Lucas Ferreira, tenho 19 anos e sou estudante de Desenvolvimento de Sis
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 

@@ -13,7 +13,7 @@ Tenho 20 anos e curso o 2° período de Análise e Desenvolvimento de Sistemas p
 ### 💻 Stacks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,js,figma,bootstrap,php" />
+    <img src="https://skillicons.dev/icons?i=react,git,js,bootstrap,php,postman" />
   </a>
 </p>
 

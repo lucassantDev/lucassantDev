@@ -4,7 +4,9 @@
 
 **`Desenvolvedor Web`**
 
-Tenho 20 anos e curso o 3° período de Análise e Desenvolvimento de Sistemas pela instituição SENAC. Busco me desenvolver de forma cada vez mais técnica e social no intuito de agregar em qualquer desafio ou situação proposta. Desde fevereiro de 2026, trabalho como Desenvolvedor/Operacional no Grupo Ninja
+Tenho 20 anos e curso o 3° período de Análise e Desenvolvimento de Sistemas pela instituição SENAC. Busco me desenvolver de forma cada vez mais técnica e social no intuito de agregar em qualquer desafio ou situação proposta. 
+
+Desde fevereiro de 2026, trabalho como Desenvolvedor/Operacional no Grupo Ninja, onde tive contato com tecnologias como php, laravel e n8n.
 
 
 ### 📓Formações:

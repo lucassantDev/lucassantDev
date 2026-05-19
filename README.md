@@ -17,7 +17,7 @@ Desde fevereiro de 2026, trabalho como Desenvolvedor/Operacional no Grupo Ninja,
 ### 💻 Stacks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,js,bootstrap,php,laravel,postman" />
+    <img src="https://skillicons.dev/icons?i=react,git,js,bootstrap,php,laravel,postman,tailwind" />
   </a>
 </p>
 
